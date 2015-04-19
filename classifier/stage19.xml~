@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <opencv_storage>
-<stage19>
+<stages type_id="opencv-haar-classifier">
   <maxWeakCount>17</maxWeakCount>
   <stageThreshold>-9.1477614641189575e-01</stageThreshold>
   <weakClassifiers>
@@ -88,6 +88,5 @@
       <internalNodes>
         0 -1 29039 -3.5755818244069815e-03</internalNodes>
       <leafValues>
-        -5.1347470283508301e-01 1.6002254188060760e-01</leafValues></_></weakClassifiers></stage19>
+        -5.1347470283508301e-01 1.6002254188060760e-01</leafValues></_></weakClassifiers></stages>
 </opencv_storage>
-
